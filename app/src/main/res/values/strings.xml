@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPractice</string>
+    <string name="product_name_placeholder">Product Name</string>
+    <string name="product_description_placeholder">Product Description</string>
+</resources>
